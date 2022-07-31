@@ -1,0 +1,7 @@
+//@import '../../../assets/sass/mixins/all.scss';
+
+@import '../../../assets/sass/mixins/all.scss';
+
+@include b(sections){
+  @include fx-left;
+}
